@@ -1,0 +1,19 @@
+/* Link to color palatte https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e */
+body {
+  background-color: #DBE2EF;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 50px;
+}
+
+h1 {
+  color: #3F72AF;
+}
+
+h3 {
+  color: #3F72AF;
+}
